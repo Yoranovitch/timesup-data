@@ -1,4 +1,4 @@
-{	"version": 1,"categories": [
+{	"version": 2,"categories": [
 {"id":"Actors", "version": 1, "order":1, "url": ".../Actors.json","icon":".../Actors.png"},
 {"id":"Animals", "version": 1, "order":2, "url": ".../Animals.json","icon":".../Animals.png"},
 {"id":"Animation", "version": 1, "order":3, "url": ".../Animation.json","icon":".../Animation.png"},
