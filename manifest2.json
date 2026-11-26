@@ -1,5 +1,5 @@
 {
-	"version": 1,
+	"version": 2,
 	"categories": [
 		{"id": "animals", "name": "Animals", "version": 3,"order": 1, "url": "https://Yoranovitch.github.io/timesup-data/animals.json","icon":"https://Yoranovitch.github.io/timesup-data/animals.png"}
 	]
