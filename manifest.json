@@ -22,7 +22,7 @@
 {"id":"History", "name":"History", "version": 1, "order":22, "url": "https://Yoranovitch.github.io/timesup-data/History.json", "icon":"https://Yoranovitch.github.io/timesup-data/History.png"},
 {"id":"Horror", "name":"Horror", "version": 1, "order":23, "url": "https://Yoranovitch.github.io/timesup-data/Horror.json", "icon":"https://Yoranovitch.github.io/timesup-data/Horror.png"},
 {"id":"Influencers", "name":"Influencers", "version": 1, "order":24, "url": "https://Yoranovitch.github.io/timesup-data/Influencers.json", "icon":"https://Yoranovitch.github.io/timesup-data/Influencers.png"},
-{"id":"Instruments", "name":"Instruments", "version": 1, "order":25, "url": "https://Yoranovitch.github.io/timesup-data/Instruments.json", "icon":"https://Yoranovitch.github.io/timesup-data/Instruments.png"},
+{"id":"Instruments", "name":"Instruments", "version": 2, "order":25, "url": "https://Yoranovitch.github.io/timesup-data/Instruments.json", "icon":"https://Yoranovitch.github.io/timesup-data/Instruments.png"},
 {"id":"Jobs", "name":"Jobs", "version": 1, "order":26, "url": "https://Yoranovitch.github.io/timesup-data/Jobs.json", "icon":"https://Yoranovitch.github.io/timesup-data/Jobs.png"},
 {"id":"Landmarks", "name":"Landmarks", "version": 1, "order":27, "url": "https://Yoranovitch.github.io/timesup-data/Landmarks.json", "icon":"https://Yoranovitch.github.io/timesup-data/Landmarks.png"},
 {"id":"Memes", "name":"Memes", "version": 1, "order":28, "url": "https://Yoranovitch.github.io/timesup-data/Memes.json", "icon":"https://Yoranovitch.github.io/timesup-data/Memes.png"},
