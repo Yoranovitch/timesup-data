@@ -1,4 +1,4 @@
-{	"version": 2,"categories": [
+{	"version": 3,"categories": [
 {"id":"Actors", "name":"Actors", "version": 1, "order":1, "url": "https://Yoranovitch.github.io/timesup-data/Actors.json", "icon":"https://Yoranovitch.github.io/timesup-data/Actors.png"},
 {"id":"Animals", "name":"Animals", "version": 1, "order":2, "url": "https://Yoranovitch.github.io/timesup-data/Animals.json", "icon":"https://Yoranovitch.github.io/timesup-data/Animals.png"},
 {"id":"Animation", "name":"Animation", "version": 1, "order":3, "url": "https://Yoranovitch.github.io/timesup-data/Animation.json", "icon":"https://Yoranovitch.github.io/timesup-data/Animation.png"},
@@ -39,6 +39,5 @@
 {"id":"Sports", "name":"Sports", "version": 1, "order":39, "url": "https://Yoranovitch.github.io/timesup-data/Sports.json", "icon":"https://Yoranovitch.github.io/timesup-data/Sports.png"},
 {"id":"Tv", "name":"Tv", "version": 1, "order":40, "url": "https://Yoranovitch.github.io/timesup-data/Tv.json", "icon":"https://Yoranovitch.github.io/timesup-data/Tv.png"},
 {"id":"Universe", "name":"Universe", "version": 1, "order":41, "url": "https://Yoranovitch.github.io/timesup-data/Universe.json", "icon":"https://Yoranovitch.github.io/timesup-data/Universe.png"},
-{"id":"Videogames", "name":"Videogames", "version": 1, "order":42, "url": "https://Yoranovitch.github.io/timesup-data/Videogames.json", "icon":"https://Yoranovitch.github.io/timesup-data/Videogames.png"},
-{"id":"Wizards", "name":"Wizards", "version": 1, "order":43, "url": "https://Yoranovitch.github.io/timesup-data/Wizards.json", "icon":"https://Yoranovitch.github.io/timesup-data/Wizards.png"},
+{"id":"Videogames", "name":"Videogames", "version": 1, "order":42, "url": "https://Yoranovitch.github.io/timesup-data/Videogames.json", "icon":"https://Yoranovitch.github.io/timesup-data/Videogames.png"}
 ]}
