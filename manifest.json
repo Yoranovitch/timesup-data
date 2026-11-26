@@ -30,7 +30,7 @@
 {"id":"Musicians", "name":"Musicians", "version": 1, "order":30, "url": "https://Yoranovitch.github.io/timesup-data/Musicians.json", "icon":"https://Yoranovitch.github.io/timesup-data/Musicians.png"},
 {"id":"Nature", "name":"Nature", "version": 1, "order":31, "url": "https://Yoranovitch.github.io/timesup-data/Nature.json", "icon":"https://Yoranovitch.github.io/timesup-data/Nature.png"},
 {"id":"Objects", "name":"Objects", "version": 1, "order":32, "url": "https://Yoranovitch.github.io/timesup-data/Objects.json", "icon":"https://Yoranovitch.github.io/timesup-data/Objects.png"},
-{"id":"Pokemon", "name":"Pokemon", "version": 1, "order":33, "url": "https://Yoranovitch.github.io/timesup-data/Pokemon.json", "icon":"https://Yoranovitch.github.io/timesup-data/Pokemon.png"},
+{"id":"Pokemon", "name":"Pokemon", "version": 2, "order":33, "url": "https://Yoranovitch.github.io/timesup-data/Pokemon.json", "icon":"https://Yoranovitch.github.io/timesup-data/Pokemon.png"},
 {"id":"Religion", "name":"Religion", "version": 1, "order":34, "url": "https://Yoranovitch.github.io/timesup-data/Religion.json", "icon":"https://Yoranovitch.github.io/timesup-data/Religion.png"},
 {"id":"Sayings", "name":"Sayings", "version": 1, "order":35, "url": "https://Yoranovitch.github.io/timesup-data/Sayings.json", "icon":"https://Yoranovitch.github.io/timesup-data/Sayings.png"},
 {"id":"Scifi", "name":"Scifi", "version": 1, "order":36, "url": "https://Yoranovitch.github.io/timesup-data/Scifi.json", "icon":"https://Yoranovitch.github.io/timesup-data/Scifi.png"},
