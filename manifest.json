@@ -3,7 +3,6 @@
 {"id":"Animals", "name":"Animals", "version": 1, "order":2, "url": "https://Yoranovitch.github.io/timesup-data/Animals.json", "icon":"https://Yoranovitch.github.io/timesup-data/Animals.png"},
 {"id":"Animation", "name":"Animation", "version": 1, "order":3, "url": "https://Yoranovitch.github.io/timesup-data/Animation.json", "icon":"https://Yoranovitch.github.io/timesup-data/Animation.png"},
 {"id":"Anime", "name":"Anime", "version": 1, "order":4, "url": "https://Yoranovitch.github.io/timesup-data/Anime.json", "icon":"https://Yoranovitch.github.io/timesup-data/Anime.png"},
-{"id":"Bonaire", "name":"Bonaire", "version": 1, "order":5, "url": "https://Yoranovitch.github.io/timesup-data/Bonaire.json", "icon":"https://Yoranovitch.github.io/timesup-data/Bonaire.png"},
 {"id":"Books", "name":"Books", "version": 1, "order":6, "url": "https://Yoranovitch.github.io/timesup-data/Books.json", "icon":"https://Yoranovitch.github.io/timesup-data/Books.png"},
 {"id":"Brands", "name":"Brands", "version": 1, "order":7, "url": "https://Yoranovitch.github.io/timesup-data/Brands.json", "icon":"https://Yoranovitch.github.io/timesup-data/Brands.png"},
 {"id":"Cars", "name":"Cars", "version": 1, "order":8, "url": "https://Yoranovitch.github.io/timesup-data/Cars.json", "icon":"https://Yoranovitch.github.io/timesup-data/Cars.png"},
